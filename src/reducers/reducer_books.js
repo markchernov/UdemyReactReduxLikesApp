@@ -1,7 +1,7 @@
 export default function() {
     return [
-        {title: "Js"},
-        {title: "HP"},
-        {title: "Other"}
+        {title: "Js", pages: 101},
+        {title: "HP", pages: 40},
+        {title: "Other", pages: 50}
     ]
 }
